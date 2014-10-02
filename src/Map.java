@@ -74,7 +74,7 @@ public class Map
 
     public char[][] getTerrain(int row, int col, int sight)
     {
-
+        //implement this
     }
 
     private boolean isNumeric(String s)
